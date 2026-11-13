@@ -1,2 +1,2 @@
 # task-tracker
-practice project for learning
+sample task tracker
